@@ -1,0 +1,426 @@
+#EXTM3U
+
+---------------------------------------------------------------Deportes-------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="LA045:ESPN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino",LA045:ESPN LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58012
+#EXTINF:-1 tvg-id="" tvg-name="LA046:ESPN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino",LA046:ESPN 2
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58011
+#EXTINF:-1 tvg-id="" tvg-name="LA047:ESPN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino",LA047:ESPN 3
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58010
+#EXTINF:0,Beins Sports Español
+#EXTGRP:Without category
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA077:Win Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA077WinSports.png" group-title="Latino",LA077:Win Sports
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57980
+#EXTINF:-1 tvg-id="" tvg-name="LA058:Fox Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino",LA058:Fox Sports 1
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57999
+#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino",LA059:Fox Sports 2
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57998
+#EXTINF:-1 tvg-id="" tvg-name="LA060:Fox Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino",LA060:Fox Sports 3
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57997
+#EXTINF:-1 tvg-id="" tvg-name="ARG049:FOX SPORTS HD" tvg-logo="" group-title="Argentina",ARG049:FOX SPORTS HD
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/49703
+#EXTINF:-1 tvg-id="" tvg-name="ARG050:FOX SPORTS Premium HD" tvg-logo="" group-title="Argentina",ARG050:FOX SPORTS Premium HD
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/49702
+
+#EXTINF:0,LA LIGA TV HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=37|User-Agent=gjaiodjfhf73#EXTINF:-1 tvg-id="" tvg-name="LA081:NAT GEO Wild LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA081NATGEOWildLA.png" group-title="Latino",LA081:NAT GEO Wild LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57976
+#EXTINF:-1 tvg-id="" tvg-name="LA082:NAT GEO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA082NATGEOLA.png" group-title="Latino",LA082:NAT GEO LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57975
+#EXTINF:-1,|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://rv.therevenge.co:80/307231215061/307231215061/79291
+
+#EXTINF:-1 tvg-id="" tvg-name="LA019:CDF Premuim" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA019CDFPremuim.png" group-title="Latino",LA019:CDF Premuim
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58038
+
+#EXTINF:0,NFL Channel
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,DUBAI Racing
+#EXTGRP:Without category
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Red Bull TV
+#EXTGRP:Without category
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,Big Sky Conference
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,World Poker Tour
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,GLORY Kickboxing
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78613
+
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78611
+
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD EN
+http://rv.therevenge.co:80/307231215061/307231215061/78606
+
+#EXTINF:-1,|AR| BEIN SPORTS 16 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78602
+#EXTINF:-1,|AR| BEIN SPORTS NBA HD
+http://rv.therevenge.co:80/307231215061/307231215061/78619
+
+
+
+#EXTGRP:DP Y EVENTOS
+http://zufreelist.net:8080/afdvraervfaervaeafdvraervfaervaeafdvraervfaervaeafdvraervfaervaeafdvraervfaervae/afdvraervfaervaeafdvraervfaervaeafdvraervfaervaeafdvraervfaervae/2122
+
+----------------------------------------------------------------------Infantiles--------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA037:Disney LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA037DisneyLA.png" group-title="Latino",LA037:Disney LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58020
+#EXTINF:-1 tvg-id="" tvg-name="LA038:Disney Junior LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA038DisneyJuniorLA.png" group-title="Latino",LA038:Disney Junior LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58019
+#EXTINF:-1 tvg-id="" tvg-name="LA039:Disney XD LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA039DisneyXDLA.png" group-title="Latino",LA039:Disney XD LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58018
+#EXTINF:-1 tvg-id="" tvg-name="LA083:Nick JR LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA083NickJRLA.png" group-title="Latino",LA083:Nick JR LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57974
+#EXTINF:-1 tvg-id="" tvg-name="LA084:Nicktoons LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:Nicktoons LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57973
+#EXTINF:-1 tvg-id="" tvg-name="LA085:Nick LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA085NickLA.png" group-title="Latino",LA085:Nick LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57972
+#EXTINF:0,Pluto TV Kids
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="LA018:Carton Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA018CartonNetwork.png" group-title="Latino",LA018:Carton Network
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58039
+--------------------------------------------------------------------Nacionales-----------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="LA016:Canal De Las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA016CanalDeLasEstrellas.png" group-title="Latino",LA016:Canal De Las Estrellas
+#EXTINF:-1 tvg-id="" tvg-name="LA007:Azteca 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA007Azteca13.png" group-title="Latino",LA007:Azteca 13
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58050
+
+#EXTINF:-1 tvg-id="" tvg-name="LA009:Azteca Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA009AztecaCinema.png" group-title="Latino",LA009:Azteca Cinema
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58048
+#EXTINF:-1 tvg-id="" tvg-name="LA010:Azteca Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA010AztecaMundo.png" group-title="Latino",LA010:Azteca Mundo
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58047
+#EXTINF:-1 tvg-id="" tvg-name="LA011:Azteca Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino",LA011:Azteca Noticias
+
+----------------------------------------------------------Noticias----------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA323:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA323FOXNEWS.png" group-title="Latino",LA323:FOX NEWS
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58978
+----------------------------------------------------------Internacionales-----------------------------------------------------------------------
+
+
+#EXTINF:-1,|SP| LA 1 HD
+http://rv.therevenge.co:80/307231215061/307231215061/79361
+#EXTINF:-1,|SP| LA 2
+http://rv.therevenge.co:80/307231215061/307231215061/79360
+#EXTINF:-1,|SP| ANTENA 3 HD
+http://rv.therevenge.co:80/307231215061/307231215061/79359
+#EXTINF:-1,|SP| ATRE SERIES HD
+http://rv.therevenge.co:80/307231215061/307231215061/79340
+#EXTINF:-1,|SP| CUATRO HD
+http://rv.therevenge.co:80/307231215061/307231215061/79358
+#EXTINF:-1,|SP| TELECINCO HD
+http://rv.therevenge.co:80/307231215061/307231215061/79357
+
+#EXTINF:-1 tvg-id="" tvg-name="LA017:Caracol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA017Caracol.png" group-title="Latino",LA017:Caracol
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58040
+#EXTINF:-1 tvg-id="" tvg-name="LA050:Univision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA050Univision.png" group-title="Latino",LA050:Univision
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58007
+#EXTINF:0,Canal UCR
+#EXTGRP:Without category
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA094:Telemundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA094Telemundo.png" group-title="Latino",LA094:Telemundo
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57963
+#EXTINF:-1 tvg-id="" tvg-name="LA095:Telemundo Int" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA095TelemundoInt.png" group-title="Latino",LA095:Telemundo Int
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57962
+#EXTINF:0,Television del Este
+#EXTGRP:Without category
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Telemax HD
+#EXTGRP:Without category
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:0,TeleSur
+#EXTGRP:Without category
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,Latinos UP
+#EXTGRP:Without category
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA014:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino",LA014:Canal 11
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58043
+#EXTINF:0,DW Latin America
+#EXTGRP:Without category
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&amp;
+#EXTINF:0,France 24
+#EXTGRP:Without category
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:0,NASA Public
+#EXTGRP:Without category
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,New Orleans TV
+#EXTGRP:Without category
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,AB Channel (Italia)
+#EXTGRP:Without category
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+
+
+
+----------------------------------------------------------------Cine-------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="LA024:CNN en Espagnol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA024CNNenEspagnol.png" group-title="Latino",LA024:CNN en Espagnol
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58033
+#EXTINF:0,HOLLYWOOD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=3|User-Agent=gjaiodjfhf73
+
+#EXTINF:-1,|SP| HOLLYWOOD HD
+http://rv.therevenge.co:80/307231215061/307231215061/79317
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA052:Fox Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino",LA052:Fox Action
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58005
+#EXTINF:-1 tvg-id="" tvg-name="LA053:Fox Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png" group-title="Latino",LA053:Fox Cinema
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58004
+#EXTINF:-1 tvg-id="" tvg-name="LA054:Fox Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA054FoxClassic.png" group-title="Latino",LA054:Fox Classic
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58003
+#EXTINF:-1 tvg-id="" tvg-name="LA055:Fox LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA055FoxLA.png" group-title="Latino",LA055:Fox LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58002
+#EXTINF:-1 tvg-id="" tvg-name="LA056:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA056FoxLife.png" group-title="Latino",LA056:Fox Life
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58001
+#EXTINF:-1 tvg-id="" tvg-name="LA057:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA057FoxMovies.png" group-title="Latino",LA057:Fox Movies
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58000
+#EXTINF:-1,|SP| PARAMOUNT
+http://rv.therevenge.co:80/307231215061/307231215061/79316
+#EXTINF:-1 tvg-id="" tvg-name="LA020:Cine Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA020CineCanal.png" group-title="Latino",LA020:Cine Canal
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58037
+#EXTINF:-1 tvg-id="" tvg-name="LA021:Cine Latino" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA021CineLatino.png" group-title="Latino",LA021:Cine Latino
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58036
+#EXTINF:-1 tvg-id="" tvg-name="LA022:Cine Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA022CineMax.png" group-title="Latino",LA022:Cine Max
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58035
+#EXTINF:-1,|CA| HBO 1#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino",LA023:Claro Sports
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58034
+http://rv.therevenge.co:80/307231215061/307231215061/81366
+#EXTINF:-1 tvg-id="" tvg-name="LA026:De Pelicula" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA026DePelicula.png" group-title="Latino",LA026:De Pelicula
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58031
+#EXTINF:-1 tvg-id="" tvg-name="LA048:Film And Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="Latino",LA048:Film And Arts
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58009
+#EXTINF:-1 tvg-id="" tvg-name="LA049:Film Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA049FilmZone.png" group-title="Latino",LA049:Film Zone
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58008
+#EXTINF:0,FMTV HD
+#EXTGRP:Without category#EXTINF:-1 tvg-id="" tvg-name="LA099:TLC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino",LA099:TLC LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57958
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Classic Movies Channel
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" tvg-name="LA098:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino",LA098:Paramount
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57959
+#EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino",LA064:Golden Edge
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57993
+#EXTINF:-1 tvg-id="" tvg-name="LA065:Golden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="Latino",LA065:Golden
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57992
+
+#EXTINF:-1 tvg-id="" tvg-name="LA416:MoviePlex FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA416MoviePlexFHD.png" group-title="Latino",LA416:MoviePlex FHD
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58885
+
+#EXTINF:-1 tvg-id="" tvg-name="LA199:Cinema 30 PPV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA199Cinema30PPV.png" group-title="Latino",LA199:Cinema 30 PPV
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/59102
+#EXTINF:-1 tvg-id="" tvg-name="LA234:CINEMA PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA234CINEMAPLUS.png" group-title="Latino",LA234:CINEMA PLUS
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/59067
+#EXTINF:-1 tvg-id="" tvg-name="LA235:Cinemax Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino",LA235:Cinemax Action HD
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/59066
+------------------------------------------------------------------Entretenimiento----------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA051:Fox Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino",LA051:Fox Series
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58006
+#EXTINF:-1,|SP| CALLE 13 HD
+http://rv.therevenge.co:80/307231215061/307231215061/79322
+#EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58056
+#EXTINF:-1 tvg-id="" tvg-name="LA004:AXN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA004AXNLA.png" group-title="Latino",LA004:AXN LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58053
+#EXTINF:-1 tvg-id="" tvg-name="LA036:Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA036Universal.png" group-title="Latino",LA036:Universal
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58021
+#EXTINF:-1 tvg-id="" tvg-name="LA025:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA025ComedyCentral.png" group-title="Latino",LA025:Comedy Central
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58032
+#EXTINF:-1 tvg-id="" tvg-name="LA042:E! LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA042E!LA.png" group-title="Latino",LA042:E! LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58015
+#EXTINF:-1 tvg-id="" tvg-name="LA040:Distrito Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="Latino",LA040:Distrito Comedia
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58017
+
+#EXTINF:-1 tvg-id="" tvg-name="LA061:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA061FX.png" group-title="Latino",LA061:FX
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57996
+#EXTINF:-1 tvg-id="" tvg-name="LA062:Warner" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino",LA062:Warner
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57995
+#EXTINF:-1 tvg-id="" tvg-name="LA063:Glitz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino",LA063:Glitz
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57994
+#EXTINF:-1 tvg-id="" tvg-name="LA072:HOLA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="Latino",LA072:HOLA TV
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57985
+#EXTINF:-1 tvg-id="" tvg-name="LA073:I-SAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA073I-SAT.png" group-title="Latino",LA073:I-SAT
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57984
+
+#EXTINF:-1 tvg-id="" tvg-name="LA086:SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA086SONY.png" group-title="Latino",LA086:SONY
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57971
+#EXTINF:-1 tvg-id="" tvg-name="LA087:Space LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA087SpaceLA.png" group-title="Latino",LA087:Space LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57970
+#EXTINF:-1 tvg-id="" tvg-name="LA088:Studio Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA088StudioUniversal.png" group-title="Latino",LA088:Studio Universal
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57969
+#EXTINF:-1 tvg-id="" tvg-name="LA089:SYFY LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA089SYFYLA.png" group-title="Latino",LA089:SYFY LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57968
+#EXTINF:-1 tvg-id="" tvg-name="LA090:TBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA090TBS.png" group-title="Latino",LA090:TBS
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57967
+#EXTINF:-1 tvg-id="" tvg-name="LA091:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA091TCM.png" group-title="Latino",LA091:TCM
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57966
+#EXTINF:-1 tvg-id="" tvg-name="LA092:Unicable" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA092Unicable.png" group-title="Latino",LA092:Unicable
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57965
+#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57957
+#EXTINF:-1 tvg-id="" tvg-name="LA101:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA101TNT.png" group-title="Latino",LA101:TNT
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57956
+#EXTINF:-1 tvg-id="" tvg-name="ARG067:TNT Sports HD" tvg-logo="" group-title="Argentina",ARG067:TNT Sports HD
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/4968
+#EXTINF:-1 tvg-id="" tvg-name="LA102:TNT Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA102TNTSeries.png" group-title="Latino",LA102:TNT Series
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57955
+#EXTINF:-1 tvg-id="" tvg-name="LA103:Tooncast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA103Tooncast.png" group-title="Latino",LA103:Tooncast
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57954
+#EXTINF:-1 tvg-id="" tvg-name="LA104:UNIMAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA104UNIMAS.png" group-title="Latino",LA104:UNIMAS
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57953
+#EXTINF:-1 tvg-id="" tvg-name="LA105:Tru TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA105TruTV.png" group-title="Latino",LA105:Tru TV
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57952
+#EXTINF:-1 tvg-id="" tvg-name="LA106:Marti" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA106Marti.png" group-title="Latino",LA106:Marti
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57951
+#EXTINF:-1 tvg-id="" tvg-name="LA107:TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA107TVE.png" group-title="Latino",LA107:TVE
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57950
+#EXTINF:-1 tvg-id="" tvg-name="LA109:TELEMUNDO 51 (Miami)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA109TELEMUNDO51(Miami).png" group-title="Latino",LA109:TELEMUNDO 51 (Miami)
+
+----------------------------------------------------------------Culturales--------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="LA066:H2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA066H2LA.png" group-title="Latino",LA066:H2 LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57991
+#EXTINF:-1 tvg-id="" tvg-name="LA071:History LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA071HistoryLA.png" group-title="Latino",LA071:History LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57986
+#EXTINF:-1 tvg-id="" tvg-name="LA027:Discovery Home Health LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino",LA027:Discovery Home Health LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58030
+#EXTINF:-1 tvg-id="" tvg-name="LA028:Discovery LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino",LA028:Discovery LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58029
+#EXTINF:-1 tvg-id="" tvg-name="LA029:Discovery Civilization" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino",LA029:Discovery Civilization
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58028
+#EXTINF:-1 tvg-id="" tvg-name="LA030:Discovery ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA030DiscoveryIDLA.pn#EXTINF:-1 tvg-id="" tvg-name="LA067:HBO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="Latino",LA067:HBO LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57990
+#EXTINF:-1 tvg-id="" tvg-name="LA068:HBO 2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="Latino",LA068:HBO 2 LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57989
+#EXTINF:-1 tvg-id="" tvg-name="LA069:HBO Family LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="Latino",LA069:HBO Family LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57988
+#EXTINF:-1 tvg-id="" tvg-name="LA070:HBO Signature LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="Latino",LA070:HBO Signature LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57987g" group-title="Latino",LA030:Discovery ID LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58027
+#EXTINF:-1 tvg-id="" tvg-name="LA031:Discovery Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA031DiscoveryKids.png" group-title="Latino",LA031:Discovery Kids
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58026
+#EXTINF:-1 tvg-id="" tvg-name="LA032:Discovery Science LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino",LA032:Discovery Science LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58025
+#EXTINF:-1 tvg-id="" tvg-name="LA033:Discovery Teather" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino",LA033:Discovery Teather
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58024
+#EXTINF:-1 tvg-id="" tvg-name="LA034:Discovery TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino",LA034:Discovery TLC
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58023
+#EXTINF:-1 tvg-id="" tvg-name="LA035:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino",LA035:Discovery Turbo
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58022
+#EXTINF:-1 tvg-id="" tvg-name="LA074:ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA074IDLA.png" group-title="Latino",LA074:ID LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57983
+#EXTINF:0,Travel HD#EXTINF:-1 tvg-id="" tvg-name="LA076:MI Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA076MIMusica.png" group-title="Latino",LA076:MI Musica
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57981
+#EXTGRP:unsorted
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0,Beach TV Pawleys Island
+#EXTGRP:unsorted
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8#EXTINF:-1 tvg-id="" tvg-name="LA075:Lifetime  LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA075LifetimeLA.png" group-title="Latino",LA075:Lifetime  LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57982
+#EXTINF:-1 tvg-id="" tvg-name="LA426:TELEUNIVERSO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA426TELEUNIVERSO.png" group-title="Latino",LA426:TELEUNIVERSO
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58875
+#EXTINF:-1,|SP| CANAL ODISEA
+http://rv.therevenge.co:80/307231215061/307231215061/79254
+
+#EXTINF:0,Voyager Documentaries
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Smash Food
+#EXTGRP:Without category
+http://a3.smashmalta.com:82/live/smash/smash/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA044:EL Gourmet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="Latino",LA044:EL Gourmet
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/58013
+#EXTINF:0,Food TV
+#EXTGRP:Without category#EXTINF:-1 tvg-id="" tvg-name="LA078:MTV LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA078MTVLA.png" group-title="Latino",LA078:MTV LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57979
+#EXTINF:-1 tvg-id="" tvg-name="LA079:MTV Hits LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA079MTVHitsLA.png" group-title="Latino",LA079:MTV Hits LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57978
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Gamer
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=801&deviceId=5ca7f16c37b88b2694731c79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+---------------------------------------------------------------------------Musica------------------------------------------------
+
+
+
+#EXTINF:0,|MX| MTV
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87049
+
+#EXTINF:-1 tvg-id="" tvg-name="LA078:MTV LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA078MTVLA.png" group-title="Latino",LA078:MTV LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57979
+#EXTINF:-1 tvg-id="" tvg-name="LA079:MTV Hits LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA079MTVHitsLA.png" group-title="Latino",LA079:MTV Hits LA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/57978
+
+
+#EXTINF:0,Melody Channel www.achoAPPS.com
+#EXTGRP:unsorted
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,Classic Arts Showcase
+#EXTGRP:Without category
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0,Telemusica www.achoAPPS.com
+#EXTGRP:unsorted
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+
+#EXTINF:0,M2O TV
+#EXTGRP:Without category
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,CafèTV 24
+#EXTGRP:Without category
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:0,Company TV
+#EXTGRP:Without category
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:0,Music Top
+#EXTGRP:Without category
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w607515073_b2028000_sleng.m3u8
+#EXTINF:0,Otto FM TV
+#EXTGRP:Without category
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+#EXTINF:0,CANAL 88 Stereo
+#EXTGRP:Without category
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:0,Euro Indie Music Chart TV
+#EXTGRP:Without category
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0,FM Italia TV
+#EXTGRP:Without category
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+
+-----------------------------------------Hot-------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FTV Midnight Secrets (UHD) (New!)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Miami TV Latino
+http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8?fluxuslust.m3u8
+
+
+
+
